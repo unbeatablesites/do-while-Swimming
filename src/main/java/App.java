@@ -53,5 +53,6 @@ public class App {
 
         System.out.println( swimmer2 + " stops swimming. Total swim time: " + swimTime + " min." );
     }
+    // water too cold for GALLANT
 
 }
